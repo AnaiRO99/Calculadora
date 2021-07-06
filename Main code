@@ -5,10 +5,18 @@
 
 void main(){
 
-int a;
-int b;
+//Asignación variables
+
+float a;
+float b;
 double resultado;
 char op;
 
+//Acciones
+
+cout<<"Ingrese primer numero: ";
+cin>>a;
+cout<<"Ingrese operador (+,-,*,/): ";
+cin>>b;
 
 }
